@@ -59,7 +59,7 @@ $ echo core >/proc/sys/kernel/core_pattern #исправление
 $ exit #выйти с рута
 
 #Точно пригодится:
-https://github.com/wolframroesler/afl-demo/blob/master/README.md
-https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/INSTALL.md
-https://www.youtube.com/watch?v=9wRVo0kYSlc
+Гитхаб с AFL++: https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/INSTALL.md
+Гитхаб с примером теста: https://github.com/wolframroesler/afl-demo/blob/master/README.md
+Видос индуса (очень полезный бтв): https://www.youtube.com/watch?v=9wRVo0kYSlc
 
